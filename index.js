@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Online","🧳Come Join Us!"];
+const statusMessages = ["Online"];
 
 
 let currentIndex = 0;
